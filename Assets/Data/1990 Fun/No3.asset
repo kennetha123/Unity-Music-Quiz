@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04da4726dec34b74da8b56ef378dba2e, type: 3}
+  m_Name: No3
+  m_EditorClassIdentifier: 
+  answerList:
+  - title: U Can't Touch This
+    artist: MC Hammer
+    index: 0
+  - title: Barbie Girl
+    artist: Aqua
+    index: 1
+  - title: If You Had My Love
+    artist: Jennifer Lopez
+    index: 2
+  - title: Hard To Handle
+    artist: The Black Crowes
+    index: 3
+  answerIndex: 0
+  answerPicture: {fileID: 21300000, guid: 2b67d557d3ac3cc41849328f11463cbc, type: 3}
+  answerSong: {fileID: 8300000, guid: 9ecce47b3e04d48498de3237b4069421, type: 3}

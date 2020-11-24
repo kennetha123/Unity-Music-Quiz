@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748e43728bddfd5449b32727b2889df8, type: 3}
+  m_Name: Hits 1990-1995
+  m_EditorClassIdentifier: 
+  playlistName: Hits 1990-1995
+  playlistID: 1
+  quizList:
+  - {fileID: 11400000, guid: 4c60e468837fdd94e85220aee936a6c4, type: 2}
+  - {fileID: 11400000, guid: 2c90f69705f42f540ad890b17ee4f743, type: 2}
+  - {fileID: 11400000, guid: 48347ff5cd31dca43aace89f929008de, type: 2}
+  - {fileID: 11400000, guid: dc0f3b074c8a3a746999da7454f5cf17, type: 2}
+  - {fileID: 11400000, guid: 0e36806ec3d3dce47983ce6a39161e4b, type: 2}
+  shufflePlaylist: 0

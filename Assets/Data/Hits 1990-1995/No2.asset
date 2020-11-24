@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04da4726dec34b74da8b56ef378dba2e, type: 3}
+  m_Name: No2
+  m_EditorClassIdentifier: 
+  answerList:
+  - title: Escapade
+    artist: Janet Jackson
+    index: 0
+  - title: Someday
+    artist: Mariah Carey
+    index: 1
+  - title: Informer
+    artist: Snow
+    index: 2
+  - title: Unbelievable
+    artist: EMF
+    index: 3
+  answerIndex: 2
+  answerPicture: {fileID: 21300000, guid: 87f3e66fff5099e4ca65a7ce402c2f24, type: 3}
+  answerSong: {fileID: 8300000, guid: 7eb6ad750b2d3674a95bfc1c361b7b15, type: 3}

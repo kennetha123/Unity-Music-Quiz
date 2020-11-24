@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04da4726dec34b74da8b56ef378dba2e, type: 3}
+  m_Name: No4
+  m_EditorClassIdentifier: 
+  answerList:
+  - title: Love Takes Time
+    artist: Mariah Carey
+    index: 0
+  - title: Dub Be Good to Me
+    artist: Beats International
+    index: 1
+  - title: Sacrifice
+    artist: Elton John
+    index: 2
+  - title: Smooth
+    artist: Santana & Rob Thomas
+    index: 3
+  answerIndex: 3
+  answerPicture: {fileID: 21300000, guid: 7e990d6aa19985d4fae147c2b7caaecf, type: 3}
+  answerSong: {fileID: 8300000, guid: ab5500e0b97778349a8f13794cc59649, type: 3}

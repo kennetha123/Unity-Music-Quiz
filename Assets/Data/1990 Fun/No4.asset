@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04da4726dec34b74da8b56ef378dba2e, type: 3}
+  m_Name: No4
+  m_EditorClassIdentifier: 
+  answerList:
+  - title: Shy Guy
+    artist: Diana King
+    index: 0
+  - title: The Distance
+    artist: Cake
+    index: 1
+  - title: Iris
+    artist: The Goo Goo Dolls
+    index: 2
+  - title: Action
+    artist: Terror Fabulous & Nadine Sutherland
+    index: 3
+  answerIndex: 2
+  answerPicture: {fileID: 21300000, guid: 2943d545a39dcf743bfd0186eb471611, type: 3}
+  answerSong: {fileID: 8300000, guid: 5f16eda79de8de94e927af0656643a2f, type: 3}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04da4726dec34b74da8b56ef378dba2e, type: 3}
+  m_Name: No1
+  m_EditorClassIdentifier: 
+  answerList:
+  - title: Lithium
+    artist: Nirvana
+    index: 0
+  - title: Say My Name
+    artist: Destiny's Child
+    index: 1
+  - title: Turn the Beat Around
+    artist: Gloria Estefan
+    index: 2
+  - title: Tragedy
+    artist: Steps
+    index: 3
+  answerIndex: 1
+  answerPicture: {fileID: 21300000, guid: 9222f1b94c1d2f0499aae2b7f05c9c6d, type: 3}
+  answerSong: {fileID: 8300000, guid: ac7156bd8db3f9942a14e56ed0652c37, type: 3}

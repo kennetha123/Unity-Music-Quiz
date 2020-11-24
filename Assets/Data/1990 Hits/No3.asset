@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04da4726dec34b74da8b56ef378dba2e, type: 3}
+  m_Name: No3
+  m_EditorClassIdentifier: 
+  answerList:
+  - title: Praying for Time
+    artist: George Michael
+    index: 0
+  - title: Bills, Bills, Bills
+    artist: Destiny's Child
+    index: 1
+  - title: Genie In a Bottle
+    artist: Christina Aguilera
+    index: 2
+  - title: Set Adrift On Memory Bliss
+    artist: P.M. Dawn
+    index: 3
+  answerIndex: 3
+  answerPicture: {fileID: 21300000, guid: 3269eff694fd7fa4ca995c992c379f87, type: 3}
+  answerSong: {fileID: 8300000, guid: ed84884d50b05a941a98d66f48acf712, type: 3}

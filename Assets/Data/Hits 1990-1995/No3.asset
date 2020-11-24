@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04da4726dec34b74da8b56ef378dba2e, type: 3}
+  m_Name: No3
+  m_EditorClassIdentifier: 
+  answerList:
+  - title: Step By Step
+    artist: New Kids On The Block
+    index: 0
+  - title: Blaze of Glory
+    artist: Jon Bon Jovi
+    index: 1
+  - title: I'll Make Love to You
+    artist: Boyz II Men
+    index: 2
+  - title: Rush Rush
+    artist: Paula Abdul
+    index: 3
+  answerIndex: 2
+  answerPicture: {fileID: 21300000, guid: 56e4003571bbc404399f8451e3fd4f24, type: 3}
+  answerSong: {fileID: 8300000, guid: 3edf1f114983846419033688614704a6, type: 3}

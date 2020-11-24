@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748e43728bddfd5449b32727b2889df8, type: 3}
+  m_Name: 1990 Fun
+  m_EditorClassIdentifier: 
+  playlistName: 1990 Fun
+  playlistID: 2
+  quizList:
+  - {fileID: 11400000, guid: 34f4b78ab5245ae42ad9b79bb75649b6, type: 2}
+  - {fileID: 11400000, guid: aa6c3560f8aaf7143aba883c68abefd2, type: 2}
+  - {fileID: 11400000, guid: f0fdf565e5275204abd03354c4e07136, type: 2}
+  - {fileID: 11400000, guid: 4ab4c459469380148981e4840529a421, type: 2}
+  - {fileID: 11400000, guid: 6f5c627ed505f2e4ba0e5f22a1fe79ee, type: 2}
+  shufflePlaylist: 0

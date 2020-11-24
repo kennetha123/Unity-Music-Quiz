@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04da4726dec34b74da8b56ef378dba2e, type: 3}
+  m_Name: No5
+  m_EditorClassIdentifier: 
+  answerList:
+  - title: Sesame's Treet
+    artist: Smart E's
+    index: 0
+  - title: Fantasy
+    artist: Mariah Carey
+    index: 1
+  - title: I Want You
+    artist: Savage Garden
+    index: 2
+  - title: Pony
+    artist: Ginuwine
+    index: 3
+  answerIndex: 1
+  answerPicture: {fileID: 21300000, guid: bc6492e4ef3f54c408b7033cf8c5d11b, type: 3}
+  answerSong: {fileID: 8300000, guid: 24ac392c27fdf7c4386f990c5924797e, type: 3}
